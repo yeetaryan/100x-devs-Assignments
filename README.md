@@ -3,8 +3,6 @@ This repository contains my solutions and projects for the 100xDevs Cohort by Ha
 
 💻 JavaScript, HTML, CSS
 
-🧠 Data Structures & Algorithms
-
 ⚙️ Backend with Node.js & Express
 
 🧪 Problem Solving
